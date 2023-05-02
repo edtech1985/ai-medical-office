@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DR. MED",
+    "model": "MD-3000",
+    "specialty": "Cardiologia",
+    "year": 2022,
+    "crm": "CRM AI 00001",
+    "image": "https://img.freepik.com/fotos-premium/conceito-de-tecnologia-medica-com-renderizacao-em-3d-robo-medico-com-terno-branco-isolado-no-branco_493806-8118.jpg?w=360",
+    "insurances": [
+      "Bradesco Saúde",
+      "Unimed"
+    ]
+  },
+  {
+    "name": "DR. CORTEX",
+    "model": "CX-2000",
+    "specialty": "Neurologia",
+    "year": 2023,
+    "crm": "CRM AI 02345",
+    "image": "https://revista.colegiomedico.cl/wp-content/uploads/2018/08/shutterstock_560047741.jpg",
+    "insurances": [
+      "Amil",
+      "SulAmérica"
+    ]
+  },
+  {
+    "name": "DR. STAR",
+    "model": "AS-1000",
+    "specialty": "Oncologia",
+    "year": 2021,
+    "crm": "CRM AI 34567",
+    "image": "https://img.olhardigital.com.br/wp-content/uploads/2021/12/Ameca-robo-humanoide.jpg",
+    "insurances": [
+      "Hapvida",
+      "NotreDame Intermédica"
+    ]
+  },
+  {
+    "name": "DR. LUNG",
+    "model": "PL-5000",
+    "specialty": "Pneumologia",
+    "year": 2022,
+    "crm": "CRM AI 45678",
+    "image": "https://uploads.metropoles.com/wp-content/uploads/2022/01/12195232/Ameca_White_BG_05-1024x683.jpg",
+    "insurances": [
+      "Porto Seguro",
+      "Prevent Senior"
+    ]
+  }
+]

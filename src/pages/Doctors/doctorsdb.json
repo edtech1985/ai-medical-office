@@ -1,0 +1,54 @@
+[
+  {
+    "id": "001",
+    "name": "DR. MED",
+    "model": "MD-3000",
+    "specialty": "Cardiology",
+    "year": 2022,
+    "crm": "CRM AI 00001",
+    "image": "https://img.freepik.com/free-photo/medical-technology-concept-3d-rendering-medical-robot-with-white-suit-isolated-white_493806-8118.jpg?size=360&ext=jpg",
+    "insurances": [
+      "Bradesco Health",
+      "Unimed"
+    ]
+  },
+  {
+    "id": "002",
+    "name": "DR. CORTEX",
+    "model": "CX-2000",
+    "specialty": "Neurology",
+    "year": 2023,
+    "crm": "CRM AI 02345",
+    "image": "https://revista.colegiomedico.cl/wp-content/uploads/2018/08/shutterstock_560047741.jpg",
+    "insurances": [
+      "Amil",
+      "SulAmérica"
+    ]
+  },
+  {
+    "id": "003",
+    "name": "DR. STAR",
+    "model": "AS-1000",
+    "specialty": "Oncology",
+    "year": 2021,
+    "crm": "CRM AI 34567",
+    "image": "https://img.olhardigital.com.br/wp-content/uploads/2021/12/Ameca-robo-humanoide.jpg",
+    "insurances": [
+      "Hapvida",
+      "NotreDame Intermédica"
+    ]
+  },
+  {
+    "id": "004",
+    "name": "DR. LUNG",
+    "model": "PL-5000",
+    "specialty": "Pulmonology",
+    "year": 2022,
+    "crm": "CRM AI 45678",
+    "image": "https://uploads.metropoles.com/wp-content/uploads/2022/01/12195232/Ameca_White_BG_05-1024x683.jpg",
+    "insurances": [
+      "Porto Seguro",
+      "Prevent Senior"
+    ]
+  }
+]

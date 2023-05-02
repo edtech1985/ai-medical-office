@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Home",
+        "to": "/"
+    },
+    {
+        "label": "Doctors",
+        "to": "/doctors"
+    },
+    {
+        "label": "Appointments",
+        "to": "/appointments"
+    },
+    {
+        "label": "Contacts",
+        "to": "/contacts"
+    }
+]
