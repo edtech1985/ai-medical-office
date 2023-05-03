@@ -21,6 +21,13 @@ body {
                  'Bruno Ace SC', cursive,
                  'Nova Square', cursive,
                  sans-serif; */
+
+                 @media only screen and (max-width: 1023px) {
+  body {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+  }
+}
+
 }
 
 :root {
