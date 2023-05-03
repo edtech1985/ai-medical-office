@@ -9,8 +9,6 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
 }
 
-
-
 body {
     width: 100vw;
     height: 100vh;
@@ -18,11 +16,11 @@ body {
     justify-content: center;
     background-color: #f2f2f2;
     box-sizing: border-box;
-    font-family: 'Audiowide', cursive,
+    /* font-family: 'Audiowide', cursive,
                  'Black Ops One', cursive,
                  'Bruno Ace SC', cursive,
                  'Nova Square', cursive,
-                 sans-serif;
+                 sans-serif; */
 }
 
 :root {
